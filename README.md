@@ -1,1 +1,1 @@
-# jhs-timetable
+# HTML Timetable
